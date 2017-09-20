@@ -1,0 +1,14 @@
+{
+  "name": "jeu-de-la-vie",
+  "version": "1.0.0",
+  "description": "Excercice Le Monde",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha test/*"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
